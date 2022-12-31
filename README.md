@@ -78,10 +78,4 @@ b) Yes, we observed the same relationship when averaged over 10 seeds. The avera
 
 c) Yes, the averages for both categorical (0.5730) and numerical (0.8994) both fell within the confidence intervals from q1b and q3b.
 
-Additional Readme Questions
 
-3) We enjoyed implementing the ID3 algorithm, however, we faced a lot of tricky bugs which were hard to fix.  We were mostly confused about when to remove attributes from the attributes list, and how to remove it. It was a good review of how shallow and deep copy worked
-
-4) 8-10 hrs
-
-5) We have adhered to the Honor Code in this assignment
