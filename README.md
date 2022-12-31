@@ -1,9 +1,9 @@
 Harsha Rauniyar
 
-Answer to research questions
+Research Analysis
 
 1)
-With training set percentage of 0.75 and a seed of 3452456, our program achieved the following accuracies.
+With training set percentage of 0.75 and a seed of 3452456, my program achieved the following accuracies.
 
 a)
 monks1.csv = 0.9629
@@ -66,7 +66,7 @@ b)
 [0.5629, 0.6143] Confidence Interval
 
 c)
-When comparing the results from q1b and q3b, we observe that the accuracy is much higher when using numerical attributes. This implies that handling numerical attributes by finding the best threshold and gain creates a tree that leads to the most accurate predictions. 
+When comparing the results from q1b and q3b, I observed that the accuracy is much higher when using numerical attributes. This implies that handling numerical attributes by finding the best threshold and gain creates a tree that leads to the most accurate predictions. 
 
 4. 
 a) seeds = [329, 182, 94, 1, 23, 90, 823, 781, 4938]
@@ -74,7 +74,7 @@ a) seeds = [329, 182, 94, 1, 23, 90, 823, 781, 4938]
 0.5730 average for Categorical
 0.8994 average for Numerical
 
-b) Yes, we observed the same relationship when averaged over 10 seeds. The average for numerical accuracy was much higher with an average of 0.8994 accuracy over 10 different seeds while the accuracy for categorical accuracy was only 0.573, which is only a little over half predictions correct.
+b) Yes, I observed the same relationship when averaged over 10 seeds. The average for numerical accuracy was much higher with an average of 0.8994 accuracy over 10 different seeds while the accuracy for categorical accuracy was only 0.573, which is only a little over half predictions correct.
 
 c) Yes, the averages for both categorical (0.5730) and numerical (0.8994) both fell within the confidence intervals from q1b and q3b.
 
